@@ -2,4 +2,4 @@
 Sample portfolio project.
 
 ## Description
-A common request I receive from clients is the development of a quote calculator for their website, tailored to their specific products or services.
+A common request I receive from clients is the development of a quote calculator for their website, designed around the products or services they sell.
