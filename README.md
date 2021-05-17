@@ -8,4 +8,4 @@ This is a sample quote calculator inspired by the home removal quote calculator 
 
 React, React Redux and Redux Toolkit has been used to make the calculator more interactive and more enjoyable for users to use.
 
-
+The frontend talks to microservices written in Go to faciliate each step of the quote process.
