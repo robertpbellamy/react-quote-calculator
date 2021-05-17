@@ -2,7 +2,7 @@
 Sample portfolio project.
 
 ## Description
-A common request I receive from clients is the development of a quote calculator for the products or services they sell on their ewbsite.
+A common request I receive from clients is the development of a quote calculator for the products or services they sell on their website.
 
 This is a sample quote calculator inspired by the home removal quote calculator on https://www.anyvan.com/.
 
