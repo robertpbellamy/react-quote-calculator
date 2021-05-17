@@ -1,5 +1,5 @@
 # React Quote Calculator
 Sample portfolio project.
 
-# Description
+## Description
 A common
