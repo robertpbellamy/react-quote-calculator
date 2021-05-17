@@ -1,2 +1,2 @@
-# react-quote-calculator
+# React Quote Calculator
 Sample react project
