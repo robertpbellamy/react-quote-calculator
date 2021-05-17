@@ -2,4 +2,4 @@
 Sample portfolio project.
 
 ## Description
-A common
+A common request from clients is for the development of a quote calculator
