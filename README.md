@@ -1,6 +1,8 @@
 # React Quote Calculator
 Sample portfolio project.
 
+![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
+
 ## Description
 
 A common request from clients is for the development of a quote calculator for the products or services they sell on their website.
@@ -11,4 +13,3 @@ React, React Redux and Redux Toolkit have been used to make the calculator inter
 
 The frontend communicates with microservices written in Go for each step of the quote process.
 
-![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
