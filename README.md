@@ -6,6 +6,6 @@ A common request from clients is for the development of a quote calculator for t
 
 This is a sample quote calculator inspired by the home removal quote calculator https://www.anyvan.com/.
 
-React, React Redux and Redux Toolkit have been used to make the calculator more interactive, making it quick for users to obtain a quote.
+React, React Redux and Redux Toolkit have been used to make the calculator more interactive, making it quick & easy for users to obtain a quote.
 
 The frontend communicates with microservices written in Go for each step of the quote process.
