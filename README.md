@@ -1,9 +1,9 @@
 # React Quote Calculator
 In-progress sample portfolio project.
 
-![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
-
 ## Description
+
+![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
 
 A common request from clients is to develop a quote calculator for the products or services they sell on their website.
 
