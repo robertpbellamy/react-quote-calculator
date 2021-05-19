@@ -3,9 +3,9 @@ In-progress sample portfolio project.
 
 ## Description
 
-![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
-
 A common request from clients is to develop a quote calculator for the products or services they sell on their website.
+
+![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
 
 This is a sample quote calculator inspired by the home removal quote calculator https://www.anyvan.com/.
 
