@@ -1,5 +1,5 @@
 # React Quote Calculator
-Sample portfolio project.
+In-progress sample portfolio project.
 
 ![alt text](https://raw.githubusercontent.com/robertpbellamy/react-quote-calculator/main/200w.gif)
 
